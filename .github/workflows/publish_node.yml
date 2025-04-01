@@ -4,6 +4,10 @@ on:
   push:
     tags:
       - '*'
+    branches:
+        - main
+    paths:
+        - "pyproject.toml"
 
 permissions:
   issues: write
