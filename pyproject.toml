@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "image2oss"
 version = "0.0.1"
-description = "Upload the image to Alibaba Cloud OSS"
+description = "Upload the image to Alibaba Cloud OSS,将图片上传到阿里云oss中."
 authors = [
   {name = "ComfyUI-Image2OSS", email = "nxt5656@live.cn"}
 ]
@@ -27,8 +27,8 @@ dev = [
 ]
 
 [project.urls]
-bugs = "https://github.com/nxt5656/image2oss/issues"
-homepage = "https://github.com/nxt5656/image2oss"
+bugs = "https://github.com/nxt5656/ComfyUI-Image2OSS/issues"
+homepage = "https://github.com/nxt5656/ComfyUI-Image2OSS"
 
 
 [tool.comfy]
